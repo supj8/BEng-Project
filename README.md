@@ -3,6 +3,7 @@ Install requirements.txt to a local venv to retrieve required modules
 
 ## Data Processing
 3d_image_extract_2d.py - extracts individual slices from a .tiff file
+//
 contrast.py - changes the contrast of slices
 squashing_gaussian.py - applies the gaussian compression across slices
 squashing_average.py - applies the average compression across slices
